@@ -1,0 +1,13 @@
+.card-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: stretch;
+  width: 100%;
+}
+
+.card-list a {
+  color: white;
+  display: block;
+  text-decoration: none;
+  flex: 1 0 25%;
+}
