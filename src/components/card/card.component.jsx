@@ -1,7 +1,7 @@
 import './card.styles.css';
 
 const Card = ({country, useKey}) => {
-  const {ccn3, flags, name, population} = country;
+  const {flags, name, population} = country;
 
   return (
     <div className='card'>
