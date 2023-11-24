@@ -1,0 +1,39 @@
+.card {
+  align-items: center;
+  backface-visibility: hidden;
+  background-color: #2ecc71;
+  border: 1px solid grey;
+  border-radius: 0.5rem;
+  box-shadow: 5px 5px 5px #2980b9;
+  cursor: pointer;
+  display: flex;
+  flex: 1 0 15%;
+  flex-direction: column;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 1rem;
+  padding: 2rem;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card:hover {
+  transform: scale(1.025);
+}
+
+.card img {
+  width: 180px;
+  height: 120px;
+}
+
+.card h2 {
+  display: block;
+  flex: 1 0 auto;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.card p {
+  display: block;
+  flex: 0 0 auto;
+  text-align: center;
+}
