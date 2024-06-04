@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Country Rolodex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live version of this can be found at [http://countryrolodex.com].
 
 ## Available Scripts
 
