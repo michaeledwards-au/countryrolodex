@@ -1,6 +1,6 @@
 # Country Rolodex
 
-Live version of this can be found at [http://countryrolodex.com].
+Live version of this can be found at [https://countryrolodex.netlify.app/].
 
 ## Available Scripts
 
